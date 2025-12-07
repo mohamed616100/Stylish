@@ -1,16 +1,62 @@
-# stylish
+# Stylish 🛍️
 
-A new Flutter project.
+A modern Flutter e-commerce application with a clean UI and smooth user experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Overview
 
-A few resources to get you started if this is your first Flutter project:
+**Stylish** is a full-featured shopping app built with **Flutter**.  
+It includes authentication, product browsing, cart management, orders, localization (EN / AR), and dark mode support.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app follows clean architecture using **Bloc** for state management.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎥 Demo Video
+
+> Click to play 👇
+
+![Demo Video]()[stylish.mp4](../../Users/mohamedyaser/Downloads/stylish.mp4)
+
+---
+
+## ✨ Features
+
+- ✅ Authentication (Login / Register)
+- 🛒 Add to Cart & Checkout
+- 📦 Orders & Order Details
+- 🔍 Product Search
+- ❤️ Favorites
+- 🌍 Localization (Arabic / English)
+- 🌙 Dark & Light Theme
+- 🖼️ Image Picker
+- 📍 Google Maps integration
+- 💾 Local storage with SharedPreferences
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Bloc / Cubit**
+- **Dio**
+- **Shared Preferences**
+- **Google Maps**
+- **REST API**
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK
+- Android Studio or VS Code
+- Emulator or real device
+
+### Run the project
+
+```bash
+flutter pub get
+flutter run
