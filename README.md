@@ -17,7 +17,10 @@ The app follows clean architecture using **Bloc** for state management.
 
 > Click to play 👇
 
-<img width="827" height="701" alt="Image" src="https://github.com/user-attachments/assets/c437245f-13e9-4b9a-b99c-84ee1ea30eb9" />---
+
+
+https://github.com/user-attachments/assets/1272ec0e-eb89-4429-a89a-01127453a2e8
+
 
 ## ✨ Features
 
