@@ -17,8 +17,7 @@ The app follows clean architecture using **Bloc** for state management.
 
 > Click to play 👇
 
-![Demo Video]()[stylish.mp4](../../Users/mohamedyaser/Downloads/stylish.mp4)
-
+[stylish.mp4](../../Users/mohamedyaser/Downloads/stylish.mp4)
 ---
 
 ## ✨ Features
